@@ -1,6 +1,6 @@
 import { FC, useState } from "react";
 import { Link } from "react-router-dom";
-import SignUp from "./SignUp";
+
 
 const Login: FC = () => {
   const [email, setEmail] = useState("");

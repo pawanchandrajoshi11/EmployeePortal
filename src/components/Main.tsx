@@ -3,7 +3,12 @@ import SignUp from "./SignUp";
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Home from "./Home";
 
+
+
+
 function Main() {
+
+
   return (
     <BrowserRouter>
       <Routes>
